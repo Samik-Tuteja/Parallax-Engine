@@ -139,8 +139,8 @@ body{
 }
 
 .section-3-left-div{
-    width: 40%;
-    padding: 4rem;
+    width: 50%;
+    padding: 4rem 0 4rem 4rem;
 }
 
 .section-3-left-div-top h1{
@@ -170,6 +170,11 @@ body{
     padding-left: 1rem;
 }
 
+.section-3-left-div-right{
+    margin-left: 2rem;
+}
+
+
 input{
     border: none;
     outline: none;
@@ -180,7 +185,7 @@ input{
 
 .section-3-left-div-bottom-div2 a{
     text-decoration: none;
-    margin-left: 5rem;
+    margin-left: 3rem;
     padding: 0.75rem 1.25rem;
     background-color: #C3D581;
     color: #333;
